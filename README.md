@@ -13,15 +13,15 @@
 ### Project: A/B Testing with Google Optimize
 
 ### Objective:
-To compare two versions of a webpage or app against each other to determine which one performs better. This is aimed at improving user experience and increasing conversions based on data-driven decisions.
+- To compare two versions of a webpage or app against each other to determine which one performs better. This is aimed at improving user experience and increasing conversions based on data-driven decisions.
 
 ### Key Activities:
-Set up A/B tests on a website using Google Optimize.
-Run and monitor the performance of the A/B tests.
-Analyze the results to identify which version of the webpage or app performs better.
-Use the data to make informed decisions about changes to the website or app to enhance user experience and conversions.
+- Set up A/B tests on a website using Google Optimize.
+- Run and monitor the performance of the A/B tests.
+- Analyze the results to identify which version of the webpage or app performs better.
+- Use the data to make informed decisions about changes to the website or app to enhance user experience and conversions.
 ### Technologies Used:
-Google Optimize: A tool used to set up and run A/B tests on websites.
-Data Analysis Tools: (Optional) To further analyze test results and performance metrics.
+- Google Optimize: A tool used to set up and run A/B tests on websites.
+- Data Analysis Tools: (Optional) To further analyze test results and performance metrics.
 
 
