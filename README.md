@@ -22,7 +22,7 @@
 - Use the data to make informed decisions about changes to the website or app to enhance user experience and conversions.
 ### Technologies Used:
 - Google Optimize: A tool used to set up and run A/B tests on websites.
-- Data Analysis Tools: (Optional) To further analyze test results and performance metrics.
+- Data Analysis Tools: (Optional) To further analyze test results and performance metrics. 
 
 ![image](https://github.com/user-attachments/assets/9cdff074-8a1c-4d45-88ea-57c1d1b0b26c)
 
